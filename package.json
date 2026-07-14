@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://marjorievaldivieso.github.io/Pagina-web-Redes-de-Computadoras/",
+  "homepage": "https://marjorievaldivieso.github.io/Pagina-Web-Redes-Computadores/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
